@@ -1,2 +1,1 @@
-#Weather Application
-Weather App with JavaScript
+#Weather Application with JavaScript
